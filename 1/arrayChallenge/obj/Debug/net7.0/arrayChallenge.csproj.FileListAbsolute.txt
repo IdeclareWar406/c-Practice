@@ -1,0 +1,15 @@
+/home/rsuber406/development/cTraining/1/arrayChallenge/bin/Debug/net7.0/arrayChallenge
+/home/rsuber406/development/cTraining/1/arrayChallenge/bin/Debug/net7.0/arrayChallenge.deps.json
+/home/rsuber406/development/cTraining/1/arrayChallenge/bin/Debug/net7.0/arrayChallenge.runtimeconfig.json
+/home/rsuber406/development/cTraining/1/arrayChallenge/bin/Debug/net7.0/arrayChallenge.dll
+/home/rsuber406/development/cTraining/1/arrayChallenge/bin/Debug/net7.0/arrayChallenge.pdb
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/arrayChallenge.csproj.AssemblyReference.cache
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/arrayChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/arrayChallenge.AssemblyInfoInputs.cache
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/arrayChallenge.AssemblyInfo.cs
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/arrayChallenge.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/arrayChallenge.dll
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/refint/arrayChallenge.dll
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/arrayChallenge.pdb
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/arrayChallenge.genruntimeconfig.cache
+/home/rsuber406/development/cTraining/1/arrayChallenge/obj/Debug/net7.0/ref/arrayChallenge.dll
