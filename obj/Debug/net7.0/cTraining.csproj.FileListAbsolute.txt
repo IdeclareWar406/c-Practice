@@ -1,0 +1,15 @@
+/home/rsuber406/development/cTraining/bin/Debug/net7.0/cTraining
+/home/rsuber406/development/cTraining/bin/Debug/net7.0/cTraining.deps.json
+/home/rsuber406/development/cTraining/bin/Debug/net7.0/cTraining.runtimeconfig.json
+/home/rsuber406/development/cTraining/bin/Debug/net7.0/cTraining.dll
+/home/rsuber406/development/cTraining/bin/Debug/net7.0/cTraining.pdb
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/cTraining.csproj.AssemblyReference.cache
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/cTraining.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/cTraining.AssemblyInfoInputs.cache
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/cTraining.AssemblyInfo.cs
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/cTraining.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/cTraining.dll
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/refint/cTraining.dll
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/cTraining.pdb
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/cTraining.genruntimeconfig.cache
+/home/rsuber406/development/cTraining/obj/Debug/net7.0/ref/cTraining.dll

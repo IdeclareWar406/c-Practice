@@ -1,0 +1,15 @@
+/home/rsuber406/development/cTraining/1/ifStatements/bin/Debug/net7.0/ifStatements
+/home/rsuber406/development/cTraining/1/ifStatements/bin/Debug/net7.0/ifStatements.deps.json
+/home/rsuber406/development/cTraining/1/ifStatements/bin/Debug/net7.0/ifStatements.runtimeconfig.json
+/home/rsuber406/development/cTraining/1/ifStatements/bin/Debug/net7.0/ifStatements.dll
+/home/rsuber406/development/cTraining/1/ifStatements/bin/Debug/net7.0/ifStatements.pdb
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/ifStatements.csproj.AssemblyReference.cache
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/ifStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/ifStatements.AssemblyInfoInputs.cache
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/ifStatements.AssemblyInfo.cs
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/ifStatements.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/ifStatements.dll
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/refint/ifStatements.dll
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/ifStatements.pdb
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/ifStatements.genruntimeconfig.cache
+/home/rsuber406/development/cTraining/1/ifStatements/obj/Debug/net7.0/ref/ifStatements.dll

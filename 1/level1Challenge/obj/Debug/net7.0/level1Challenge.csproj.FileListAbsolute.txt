@@ -1,0 +1,15 @@
+/home/rsuber406/development/cTraining/1/level1Challenge/bin/Debug/net7.0/level1Challenge
+/home/rsuber406/development/cTraining/1/level1Challenge/bin/Debug/net7.0/level1Challenge.deps.json
+/home/rsuber406/development/cTraining/1/level1Challenge/bin/Debug/net7.0/level1Challenge.runtimeconfig.json
+/home/rsuber406/development/cTraining/1/level1Challenge/bin/Debug/net7.0/level1Challenge.dll
+/home/rsuber406/development/cTraining/1/level1Challenge/bin/Debug/net7.0/level1Challenge.pdb
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/level1Challenge.csproj.AssemblyReference.cache
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/level1Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/level1Challenge.AssemblyInfoInputs.cache
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/level1Challenge.AssemblyInfo.cs
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/level1Challenge.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/level1Challenge.dll
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/refint/level1Challenge.dll
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/level1Challenge.pdb
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/level1Challenge.genruntimeconfig.cache
+/home/rsuber406/development/cTraining/1/level1Challenge/obj/Debug/net7.0/ref/level1Challenge.dll

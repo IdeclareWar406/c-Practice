@@ -1,0 +1,15 @@
+/home/rsuber406/development/cTraining/1/checkSubs/bin/Debug/net7.0/checkSubs
+/home/rsuber406/development/cTraining/1/checkSubs/bin/Debug/net7.0/checkSubs.deps.json
+/home/rsuber406/development/cTraining/1/checkSubs/bin/Debug/net7.0/checkSubs.runtimeconfig.json
+/home/rsuber406/development/cTraining/1/checkSubs/bin/Debug/net7.0/checkSubs.dll
+/home/rsuber406/development/cTraining/1/checkSubs/bin/Debug/net7.0/checkSubs.pdb
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/checkSubs.csproj.AssemblyReference.cache
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/checkSubs.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/checkSubs.AssemblyInfoInputs.cache
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/checkSubs.AssemblyInfo.cs
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/checkSubs.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/checkSubs.dll
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/refint/checkSubs.dll
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/checkSubs.pdb
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/checkSubs.genruntimeconfig.cache
+/home/rsuber406/development/cTraining/1/checkSubs/obj/Debug/net7.0/ref/checkSubs.dll
