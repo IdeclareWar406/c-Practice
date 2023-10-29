@@ -1,0 +1,15 @@
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/bin/Debug/net7.0/Starter
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/bin/Debug/net7.0/Starter.deps.json
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/bin/Debug/net7.0/Starter.dll
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/bin/Debug/net7.0/Starter.pdb
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/Starter.dll
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/refint/Starter.dll
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/Starter.pdb
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/home/rsuber406/development/cTraining/1/grades/challenge/Starter/obj/Debug/net7.0/ref/Starter.dll
