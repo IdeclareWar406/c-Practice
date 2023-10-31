@@ -1,0 +1,15 @@
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/bin/Debug/net7.0/coinFlip
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/bin/Debug/net7.0/coinFlip.deps.json
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/bin/Debug/net7.0/coinFlip.runtimeconfig.json
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/bin/Debug/net7.0/coinFlip.dll
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/bin/Debug/net7.0/coinFlip.pdb
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/coinFlip.csproj.AssemblyReference.cache
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/coinFlip.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/coinFlip.AssemblyInfoInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/coinFlip.AssemblyInfo.cs
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/coinFlip.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/coinFlip.dll
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/refint/coinFlip.dll
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/coinFlip.pdb
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/coinFlip.genruntimeconfig.cache
+/home/rsuber406/development/projects/c#/c-Practice/coinFlip/obj/Debug/net7.0/ref/coinFlip.dll
