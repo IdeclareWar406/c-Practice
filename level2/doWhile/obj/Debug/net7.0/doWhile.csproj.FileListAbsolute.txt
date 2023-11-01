@@ -1,0 +1,15 @@
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/bin/Debug/net7.0/doWhile
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/bin/Debug/net7.0/doWhile.deps.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/bin/Debug/net7.0/doWhile.runtimeconfig.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/bin/Debug/net7.0/doWhile.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/bin/Debug/net7.0/doWhile.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/doWhile.csproj.AssemblyReference.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/doWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/doWhile.AssemblyInfoInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/doWhile.AssemblyInfo.cs
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/doWhile.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/doWhile.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/refint/doWhile.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/doWhile.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/doWhile.genruntimeconfig.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/doWhile/obj/Debug/net7.0/ref/doWhile.dll

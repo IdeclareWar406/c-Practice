@@ -1,0 +1,15 @@
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/bin/Debug/net7.0/terminalGame
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/bin/Debug/net7.0/terminalGame.deps.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/bin/Debug/net7.0/terminalGame.runtimeconfig.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/bin/Debug/net7.0/terminalGame.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/bin/Debug/net7.0/terminalGame.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/terminalGame.csproj.AssemblyReference.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/terminalGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/terminalGame.AssemblyInfoInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/terminalGame.AssemblyInfo.cs
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/terminalGame.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/terminalGame.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/refint/terminalGame.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/terminalGame.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/terminalGame.genruntimeconfig.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/terminalGame/obj/Debug/net7.0/ref/terminalGame.dll
