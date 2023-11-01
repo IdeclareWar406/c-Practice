@@ -1,0 +1,15 @@
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/bin/Debug/net7.0/store
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/bin/Debug/net7.0/store.deps.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/bin/Debug/net7.0/store.runtimeconfig.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/bin/Debug/net7.0/store.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/bin/Debug/net7.0/store.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/store.csproj.AssemblyReference.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/store.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/store.AssemblyInfoInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/store.AssemblyInfo.cs
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/store.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/store.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/refint/store.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/store.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/store.genruntimeconfig.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/store/obj/Debug/net7.0/ref/store.dll

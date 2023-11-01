@@ -1,0 +1,15 @@
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/bin/Debug/net7.0/switches
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/bin/Debug/net7.0/switches.deps.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/bin/Debug/net7.0/switches.runtimeconfig.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/bin/Debug/net7.0/switches.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/bin/Debug/net7.0/switches.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/switches.csproj.AssemblyReference.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/switches.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/switches.AssemblyInfoInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/switches.AssemblyInfo.cs
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/switches.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/switches.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/refint/switches.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/switches.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/switches.genruntimeconfig.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/switches/obj/Debug/net7.0/ref/switches.dll
