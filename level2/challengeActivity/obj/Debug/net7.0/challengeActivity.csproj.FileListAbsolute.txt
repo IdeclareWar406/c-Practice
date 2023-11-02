@@ -1,0 +1,15 @@
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/bin/Debug/net7.0/challengeActivity
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/bin/Debug/net7.0/challengeActivity.deps.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/bin/Debug/net7.0/challengeActivity.runtimeconfig.json
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/bin/Debug/net7.0/challengeActivity.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/bin/Debug/net7.0/challengeActivity.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/challengeActivity.csproj.AssemblyReference.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/challengeActivity.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/challengeActivity.AssemblyInfoInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/challengeActivity.AssemblyInfo.cs
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/challengeActivity.csproj.CoreCompileInputs.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/challengeActivity.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/refint/challengeActivity.dll
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/challengeActivity.pdb
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/challengeActivity.genruntimeconfig.cache
+/home/rsuber406/development/projects/c#/c-Practice/level2/challengeActivity/obj/Debug/net7.0/ref/challengeActivity.dll
