@@ -90,9 +90,9 @@ for (int i = 0; i < maxPets; i++)
 do{
 Console.Clear();
 
-Console.WriteLine("Welcome to the Contoso PetFriends app. Your main menu options are:");
-Console.WriteLine("Press Enter to continue");
-Console.ReadLine();
+// Console.WriteLine("Welcome to the Contoso PetFriends app. Your main menu options are:");
+// Console.WriteLine("Press Enter to continue");
+// Console.ReadLine();
 // Console.WriteLine("1. List all of our current pet information");
 // Console.WriteLine("2. Add a new animal friend to the ourAnimals array");
 // Console.WriteLine("3. Ensure animal ages and physical descriptions are complete");
@@ -104,13 +104,56 @@ Console.ReadLine();
 switch(menuSelection)
 {
 case "1":
-Console.WriteLine(" Feature coming soon");
+// List allof our current pet information
+for (int i = 0; i < maxPets ; i++)
+{
+    if(ourAnimals[i,0] != "ID #: "){
+        Console.WriteLine();
+        for(int a = 0; a < 6; a++){
+            Console.WriteLine(ourAnimals[i,a]);
+        }
+    }
+}
 Console.WriteLine("Press enter to continue");
 readResult = Console.ReadLine();
 break;
 case "2":
-Console.WriteLine(" Feature coming soon");
-Console.WriteLine("press enter to conintue");
+string anotherPet ="y";
+int petCount = 0;
+    for(int i =0; i< maxPets; i++)
+    {
+        if(ourAnimals[i,0] != "ID #: ")
+        {
+            petCount +=1;
+
+        }
+    }
+        if(petCount < maxPets){
+            Console.WriteLine($"We currently have {petCount} pets that need homes. We can manage{(maxPets - petCount)} more.");
+        }
+    while(anotherPet == "y" && petCount < maxPets)
+    {   
+       petCount = petCount +1;
+        if(petCount < maxPets){
+            // another pet
+            Console.WriteLine("Do you want to add another pet");
+            do{
+                readResult = Console.ReadLine();
+                if(readResult != null){
+                    anotherPet = readResult.ToLower();
+
+                }
+
+            } while(anotherPet !="y" && anotherPet !="n");
+
+        
+        }
+    }
+    if(petCount >= maxPets){
+        Console.WriteLine("We have reached our limit on pets");
+        Console.WriteLine("press the enter key to continue");
+    }
+
 readResult = Console.ReadLine();
 break;
 case "3":
@@ -144,21 +187,17 @@ Console.WriteLine(" Feature coming soon");
 Console.WriteLine("press enter to coninute");
 readResult = Console.ReadLine();
 break;
-// default:
+default:
+Console.WriteLine("Welcome to the Contoso PetFriends app. Your main menu options are:");
+Console.WriteLine("Press Enter to continue");
+Console.ReadLine();
+
+break;
+}
+
 // Console.WriteLine("Welcome to the Contoso PetFriends app. Your main menu options are:");
 // Console.WriteLine("Press Enter to continue");
 // Console.ReadLine();
-// Console.WriteLine("1. List all of our current pet information");
-// Console.WriteLine("2. Add a new animal friend to the ourAnimals array");
-// Console.WriteLine("3. Ensure animal ages and physical descriptions are complete");
-// Console.WriteLine("4. Ensure animal nicknames and personality descriptions are complete");
-// Console.WriteLine("5. Edit an animal’s age");
-// Console.WriteLine("6. Edit an animal’s personality description");
-// Console.WriteLine("7. Display all cats with a specified characteristic");
-// Console.WriteLine("8. Display all dogs with a specified characteristic");
-// break;
-}
-Console.WriteLine();
 Console.WriteLine("Enter your selection number (or type Exit to exit the program)");
 Console.WriteLine("1. List all of our current pet information");
 Console.WriteLine("2. Add a new animal friend to the ourAnimals array");
