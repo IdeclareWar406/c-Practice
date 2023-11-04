@@ -91,17 +91,83 @@ do{
 Console.Clear();
 
 Console.WriteLine("Welcome to the Contoso PetFriends app. Your main menu options are:");
-Console.WriteLine(" 1. List all of our current pet information");
-Console.WriteLine(" 2. Add a new animal friend to the ourAnimals array");
-Console.WriteLine(" 3. Ensure animal ages and physical descriptions are complete");
-Console.WriteLine(" 4. Ensure animal nicknames and personality descriptions are complete");
-Console.WriteLine(" 5. Edit an animal’s age");
-Console.WriteLine(" 6. Edit an animal’s personality description");
-Console.WriteLine(" 7. Display all cats with a specified characteristic");
-Console.WriteLine(" 8. Display all dogs with a specified characteristic");
+Console.WriteLine("Press Enter to continue");
+Console.ReadLine();
+// Console.WriteLine("1. List all of our current pet information");
+// Console.WriteLine("2. Add a new animal friend to the ourAnimals array");
+// Console.WriteLine("3. Ensure animal ages and physical descriptions are complete");
+// Console.WriteLine("4. Ensure animal nicknames and personality descriptions are complete");
+// Console.WriteLine("5. Edit an animal’s age");
+// Console.WriteLine("6. Edit an animal’s personality description");
+// Console.WriteLine("7. Display all cats with a specified characteristic");
+// Console.WriteLine("8. Display all dogs with a specified characteristic");
+switch(menuSelection)
+{
+case "1":
+Console.WriteLine(" Feature coming soon");
+Console.WriteLine("Press enter to continue");
+readResult = Console.ReadLine();
+break;
+case "2":
+Console.WriteLine(" Feature coming soon");
+Console.WriteLine("press enter to conintue");
+readResult = Console.ReadLine();
+break;
+case "3":
+Console.WriteLine("  Feature coming soon");
+Console.WriteLine("press enter to continue");
+readResult = Console.ReadLine();
+break;
+case "4":
+
+Console.WriteLine("  Feature coming soon");
+Console.WriteLine("press enter to continue");
+readResult = Console.ReadLine();
+break;
+case "5":
+Console.WriteLine("  Feature coming soon");
+Console.WriteLine("press enter to coninute");
+readResult = Console.ReadLine();
+break;
+case "6":
+Console.WriteLine("  Feature coming soon");
+Console.WriteLine("press enter to coninute");
+readResult =Console.ReadLine();
+break;
+case "7":
+Console.WriteLine(" Feature coming soon");
+Console.WriteLine("press enter to coninute");
+readResult = Console.ReadLine();
+break;
+case "8":
+Console.WriteLine(" Feature coming soon");
+Console.WriteLine("press enter to coninute");
+readResult = Console.ReadLine();
+break;
+// default:
+// Console.WriteLine("Welcome to the Contoso PetFriends app. Your main menu options are:");
+// Console.WriteLine("Press Enter to continue");
+// Console.ReadLine();
+// Console.WriteLine("1. List all of our current pet information");
+// Console.WriteLine("2. Add a new animal friend to the ourAnimals array");
+// Console.WriteLine("3. Ensure animal ages and physical descriptions are complete");
+// Console.WriteLine("4. Ensure animal nicknames and personality descriptions are complete");
+// Console.WriteLine("5. Edit an animal’s age");
+// Console.WriteLine("6. Edit an animal’s personality description");
+// Console.WriteLine("7. Display all cats with a specified characteristic");
+// Console.WriteLine("8. Display all dogs with a specified characteristic");
+// break;
+}
 Console.WriteLine();
 Console.WriteLine("Enter your selection number (or type Exit to exit the program)");
-
+Console.WriteLine("1. List all of our current pet information");
+Console.WriteLine("2. Add a new animal friend to the ourAnimals array");
+Console.WriteLine("3. Ensure animal ages and physical descriptions are complete");
+Console.WriteLine("4. Ensure animal nicknames and personality descriptions are complete");
+Console.WriteLine("5. Edit an animal’s age");
+Console.WriteLine("6. Edit an animal’s personality description");
+Console.WriteLine("7. Display all cats with a specified characteristic");
+Console.WriteLine("8. Display all dogs with a specified characteristic");
 readResult = Console.ReadLine();
 if (readResult != null)
 {
